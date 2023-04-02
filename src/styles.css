@@ -1,1 +1,82 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(237, 237, 255, 0.374);
+}
+
+.container {
+    margin-left: 3%;
+    margin-right: 5%;
+}
+
+.common-form {
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 300px
+}
+
+.form-input {
+    height: 33px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 2px solid lightskyblue;
+    color: black;
+}
+
+.form-button  {
+    height: 35px;
+    border: 2 px solid rgba(109, 109, 222, 0.449);
+    color: blueviolet;
+    cursor: pointer;
+   
+}
+
+.error-p{
+    text-align: left;
+    color:red;
+    margin-bottom: -3px; 
+    font-size: 12px;
+}
+
+.p_message{
+    color:green;
+}
+
+.carousel-caption{
+    font-size: larger;
+    font-family: fantasy;
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    background-color: #00c8ecce;
+    color: rgb(102, 56, 2);
+    border-radius: 80%;
+}
+
+.carousel-control-next-icon , .carousel-control-prev-icon{
+    background-color: black;
+    border:5px;
+}
+
+.invalid-input{
+    color:red;
+    font-size:12px;
+    margin-top: -20px;
+    text-align: left;
+
+}
+
+button:disabled{
+    cursor:not-allowed ;
+}
+
+.max-width{
+    width: 100%;
+}

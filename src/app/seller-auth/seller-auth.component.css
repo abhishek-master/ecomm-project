@@ -1,0 +1,24 @@
+.sign-up, .login {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: seagreen;
+}
+
+.warningSignup {
+    color: rgba(25, 50, 162, 0.664);
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: left;
+}
+
+.auth-toggle-link{
+    margin-top:20px;
+    color:blue;
+    font-size: 13px;
+    text-align:left;
+    cursor:pointer;
+    margin-top: 2px;
+
+}

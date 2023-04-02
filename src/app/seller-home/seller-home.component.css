@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: darkslateblue;
+}
+table{
+    text-align: left;
+    color:blueviolet;
+    border-collapse: collapse;
+}
+table td ,th {
+    border: 1px solid blue;
+    padding: 10px;
+    min-height: 160px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.deleteIcon{
+    color:rgba(255, 0, 0, 0.715);
+    
+    cursor: pointer;   
+}
+
+.editIcon{
+    color:rgba(0, 0, 255, 0.668)
+}
+.deleteIcon:hover {
+    color:red;
+}
+.editIcon:hover{
+    color:blue;
+}
+

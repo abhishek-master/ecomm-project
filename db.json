@@ -1,0 +1,269 @@
+{
+  "seller": [
+    {
+      "name": "Abhishek Sinha",
+      "email": "abhishek@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@123",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 4
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 5
+    },
+    {
+      "name": "Alena",
+      "password": "123445",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "Kallu",
+      "password": "12345",
+      "email": "kallu@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "alex",
+      "password": "12345",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "alex",
+      "password": "12345",
+      "email": "alex@gmail",
+      "id": 9
+    },
+    {
+      "name": "alexa",
+      "password": "12345",
+      "email": "alex@gmail",
+      "id": 10
+    },
+    {
+      "name": "Isha",
+      "password": "12345",
+      "email": "isha@gmail",
+      "id": 11
+    },
+    {
+      "name": "anil",
+      "password": "abc@123",
+      "email": "anil@test.com",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "name": "Dabur Honitus",
+      "price": "70",
+      "brand": "Dabur",
+      "category": "Ayurvedic",
+      "description": "Side Effect - Drowsiness",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm65jqUdpx9hKsTu8Zn1XQOEmx4uiaH4x8g&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "Zandu Nityam",
+      "price": "130",
+      "brand": "Zandu",
+      "category": "Ayurvedic",
+      "description": "General Immunity Booster",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS9sZB5HDuoTPEqz0GPZZ28H4oZ5VUEJdQA&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "Ensure Drink",
+      "price": "600",
+      "brand": "Abott",
+      "category": "Health Drink",
+      "description": "Energy and Nutrient Supplement ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_iLvspCgUguuxdM-mRLz0sQpVdYZnjhTrsw&usqp=CAU",
+      "id": 7
+    },
+    {
+      "name": "Paracetamol",
+      "price": "12",
+      "brand": "Abott",
+      "category": "English",
+      "description": "Effective Paracetamol ",
+      "image": "https://media.istockphoto.com/id/157402355/photo/generic-paracetamol-isolated-on-white.jpg?s=612x612&w=0&k=20&c=2E3oCvsuOhbB8jmDmDgIFrPDg_FLyEvp-K0IdvGagaw=",
+      "id": 8
+    },
+    {
+      "name": "Medicated Oil",
+      "price": "599",
+      "brand": "Fuijimedicos",
+      "category": "Daily Use",
+      "description": "For relief in  join pains",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtfYhMhfZcG9XVI-qmS1l-PQojeCF-XL0CQ&usqp=CAU",
+      "id": 9
+    },
+    {
+      "name": "Vericose Cream ",
+      "price": "12000",
+      "brand": "Abott",
+      "category": "Cream ",
+      "description": "Help in curing Vericose Prolem",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjpK0F6vVSB92zddQDSRuUJafH8Y_AkGSwYRtPVXOuVL1vjNxjRUjlY-Ii_GhXA17ulc&usqp=CAU",
+      "id": 10
+    },
+    {
+      "name": "Pudin Hara",
+      "price": "30",
+      "brand": "Dabur",
+      "category": "Generic",
+      "description": "For Stomachache, Acidity and related ailments",
+      "image": "https://aayushbharat.com/shop/images/thumbnails/896/995/detailed/7/Pudin-Hara-Pudin-Hara-Active-SDL415003842-1-20903.jpg",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Bruce",
+      "email": "bruce@user.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "Vinay",
+      "email": "vinay@user.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "Pramod",
+      "email": "sinha.k.pramod@gmail.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "Simplilearn",
+      "email": "xyz@abc.com",
+      "password": "abc@123",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "Chyawanprash",
+      "price": "399",
+      "brand": "Dabur",
+      "category": "Ayurvedic",
+      "description": "Natural Immunity Booster ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpQJqWwr61-vRGKmWxlrrLWi79twT5lEdpw&usqp=CAU",
+      "quantity": 1,
+      "productId": 5,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Vericose Cream ",
+      "price": "12000",
+      "brand": "Abott",
+      "category": "Cream ",
+      "description": "Help in curing Vericose Prolem",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjpK0F6vVSB92zddQDSRuUJafH8Y_AkGSwYRtPVXOuVL1vjNxjRUjlY-Ii_GhXA17ulc&usqp=CAU",
+      "quantity": 1,
+      "productId": 10,
+      "userId": null,
+      "id": 5
+    },
+    {
+      "name": "Dabur Honitus",
+      "price": "70",
+      "brand": "Dabur",
+      "category": "Ayurvedic",
+      "description": "Side Effect - Drowsiness",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVm65jqUdpx9hKsTu8Zn1XQOEmx4uiaH4x8g&usqp=CAU",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 6
+    },
+    {
+      "name": "Ensure Drink",
+      "price": "600",
+      "brand": "Abott",
+      "category": "Health Drink",
+      "description": "Energy and Nutrient Supplement ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_iLvspCgUguuxdM-mRLz0sQpVdYZnjhTrsw&usqp=CAU",
+      "quantity": 2,
+      "userId": 6,
+      "productId": 7,
+      "id": 7
+    },
+    {
+      "name": "Pudin Hara",
+      "price": "30",
+      "brand": "Dabur",
+      "category": "Generic",
+      "description": "For Stomachache, Acidity and related ailments",
+      "image": "https://aayushbharat.com/shop/images/thumbnails/896/995/detailed/7/Pudin-Hara-Pudin-Hara-Active-SDL415003842-1-20903.jpg",
+      "quantity": 1,
+      "userId": 6,
+      "productId": 11,
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "Noida 33",
+      "contact": "2345678",
+      "totalPrice": 400,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "Noida Sector 10",
+      "contact": "9909909990",
+      "totalPrice": 400,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "alena@test.com",
+      "address": "Noida 2323232",
+      "contact": "3213213",
+      "totalPrice": 1348,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "email": "xyz@abc.com",
+      "address": "Pune Banchuk Chowk 1222",
+      "contact": "989898989",
+      "totalPrice": 1380,
+      "userId": 6,
+      "id": 5
+    }
+  ]
+}

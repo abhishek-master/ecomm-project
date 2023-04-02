@@ -1,0 +1,20 @@
+.product-image{
+    width: 70%;
+    height:300px ;
+    object-fit: contains;
+}
+
+.product-details{
+    margin-top: 50px;
+    margin-bottom: 80px;
+
+}
+
+h1,h5,h6 {
+    margin-bottom: 20px;
+}
+
+.quantity-group{
+    margin-top: 20px;
+}
+
